@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "NL1MrrEmdxnzc9/TUXurywINv64NcqF7pGl4AmcxjLkxkf6GIEnVFQtbRBGzIzAiCF7H8i57R2yZgeN3YN4zbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\C#\\Assignment 2\\Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\emgu.cv\\4.8.1.5350\\emgu.cv.4.8.1.5350.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\emgu.cv.bitmap\\4.8.1.5350\\emgu.cv.bitmap.4.8.1.5350.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\emgu.cv.runtime.windows\\4.8.1.5350\\emgu.cv.runtime.windows.4.8.1.5350.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.arm64\\19.37.32825\\emgu.runtime.windows.msvc.rt.arm64.19.37.32825.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.37.32825\\emgu.runtime.windows.msvc.rt.x64.19.37.32825.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.37.32825\\emgu.runtime.windows.msvc.rt.x86.19.37.32825.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

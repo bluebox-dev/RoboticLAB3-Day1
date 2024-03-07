@@ -1,0 +1,74 @@
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\Robotics Lab 3 A1.exe.config
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\Robotics Lab 3 A1.exe
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\Robotics Lab 3 A1.pdb
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\Emgu.CV.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.exe.config
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\obj\Debug\Robotics_Lab_3_A1.Form1.resources
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\obj\Debug\Robotics_Lab_3_A1.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\obj\Debug\Robotics.C3EF0AEC.Up2Date
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.exe
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.pdb
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\cvextern.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\opencv_videoio_ffmpeg481_64.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\concrt140.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\msvcp140.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\msvcp140_1.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\msvcp140_2.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\msvcp140_atomic_wait.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\msvcp140_codecvt_ids.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\vcruntime140.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\vcruntime140_1.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\User\Desktop\C#\Robotics Lab 3 A1\Robotics Lab 3 A1\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\Robotics Lab 3 A1.exe.config
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\Robotics Lab 3 A1.exe
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\Robotics Lab 3 A1.pdb
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\Emgu.CV.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\cvextern.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\opencv_videoio_ffmpeg481_64.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\concrt140.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\msvcp140.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\msvcp140_1.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\msvcp140_2.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\msvcp140_atomic_wait.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\msvcp140_codecvt_ids.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\vcruntime140.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\vcruntime140_1.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.exe.config
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\obj\Debug\Robotics_Lab_3_A1.Form1.resources
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\obj\Debug\Robotics_Lab_3_A1.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\obj\Debug\Robotics.C3EF0AEC.Up2Date
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.exe
+C:\Users\User\Desktop\C#\Assignment 3\Robotics Lab 3 A1\obj\Debug\Robotics Lab 3 A1.pdb

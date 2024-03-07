@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\C#\\Assignment 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53016C9F-60E8-43F5-8DDC-9D0208039A36}|Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj|c:\\users\\user\\desktop\\c#\\assignment 3\\robotics lab 3 a1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53016C9F-60E8-43F5-8DDC-9D0208039A36}|Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj|solutionrelative:robotics lab 3 a1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53016C9F-60E8-43F5-8DDC-9D0208039A36}|Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj|C:\\Users\\User\\Desktop\\C#\\Assignment 3\\robotics lab 3 a1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53016C9F-60E8-43F5-8DDC-9D0208039A36}|Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj|solutionrelative:robotics lab 3 a1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Robotics Lab 3 A1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53016C9F-60E8-43F5-8DDC-9D0208039A36}|Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj|C:\\Users\\User\\Desktop\\C#\\Assignment 3\\robotics lab 3 a1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53016C9F-60E8-43F5-8DDC-9D0208039A36}|Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj|solutionrelative:robotics lab 3 a1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\Assignment 3\\Robotics Lab 3 A1\\Form1.cs",
+              "RelativeDocumentMoniker": "Robotics Lab 3 A1\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\Assignment 3\\Robotics Lab 3 A1\\Form1.cs [Design]",
+              "RelativeToolTip": "Robotics Lab 3 A1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T21:02:57.812Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\Assignment 3\\Robotics Lab 3 A1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Robotics Lab 3 A1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\Assignment 3\\Robotics Lab 3 A1\\Form1.Designer.cs",
+              "RelativeToolTip": "Robotics Lab 3 A1\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:28:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Robotics Lab 3 A1",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\Assignment 3\\Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj",
+              "RelativeDocumentMoniker": "Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\Assignment 3\\Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj",
+              "RelativeToolTip": "Robotics Lab 3 A1\\Robotics Lab 3 A1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T22:30:29.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\Assignment 3\\Robotics Lab 3 A1\\Form1.cs",
+              "RelativeDocumentMoniker": "Robotics Lab 3 A1\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\Assignment 3\\Robotics Lab 3 A1\\Form1.cs",
+              "RelativeToolTip": "Robotics Lab 3 A1\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA+wBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T21:28:11.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
